@@ -22,7 +22,7 @@ A **modern and efficient QR Code Scanner app** built using **Kotlin, Google's ML
     <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_05/blob/master/2.jpeg" width="250">  
     <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_05/blob/master/3.jpeg" width="250">
   <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_05/blob/master/4.jpeg" width="250">
-  <img src="https://github.com/Chauhanprince00/CODECRAFT_AD_05/blob/master/5.jpeg" width="250">
+  <img src=" width="250">
 </p>  
 
 ---
